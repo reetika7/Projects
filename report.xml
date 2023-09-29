@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<agents>
+  <user>
+    <a_code>A007  </a_code>
+    <a_name>Ramasundar                              </a_name>
+    <wrkg_area>Bangalore                          </wrkg_area>
+    <commission>0.15</commission>
+    <phnno.>077-25814763   </phnno.>
+    <country>&#xD;</country>
+  </user>
+  <user>
+    <a_code>A003  </a_code>
+    <a_name>Alex                                    </a_name>
+    <wrkg_area>London                             </wrkg_area>
+    <commission>0.13</commission>
+    <phnno.>075-12458969   </phnno.>
+    <country>&#xD;</country>
+  </user>
+  <user>
+    <a_code>A008  </a_code>
+    <a_name>Alford                                  </a_name>
+    <wrkg_area>New York                           </wrkg_area>
+    <commission>0.12</commission>
+    <phnno.>044-25874365   </phnno.>
+    <country>&#xD;</country>
+  </user>
+  <user>
+    <a_code>A011  </a_code>
+    <a_name>Ravi Kumar                              </a_name>
+    <wrkg_area>Bangalore                          </wrkg_area>
+    <commission>0.15</commission>
+    <phnno.>077-45625874   </phnno.>
+    <country>&#xD;</country>
+  </user>
+  <user>
+    <a_code>A010  </a_code>
+    <a_name>Santakumar                              </a_name>
+    <wrkg_area>Chennai                            </wrkg_area>
+    <commission>0.14</commission>
+    <phnno.>007-22388644   </phnno.>
+    <country>&#xD;</country>
+  </user>
+  <user>
+    <a_code>A012  </a_code>
+    <a_name>Lucida                                  </a_name>
+    <wrkg_area>San Jose                           </wrkg_area>
+    <commission>0.12</commission>
+    <phnno.>044-52981425   </phnno.>
+    <country>&#xD;</country>
+  </user>
+  <user>
+    <a_code>A005  </a_code>
+    <a_name>Anderson                                </a_name>
+    <wrkg_area>Brisban                            </wrkg_area>
+    <commission>0.13</commission>
+    <phnno.>045-21447739   </phnno.>
+    <country>&#xD;</country>
+  </user>
+  <user>
+    <a_code>A001  </a_code>
+    <a_name>Subbarao                                </a_name>
+    <wrkg_area>Bangalore                          </wrkg_area>
+    <commission>0.14</commission>
+    <phnno.>077-12346674   </phnno.>
+    <country>&#xD;</country>
+  </user>
+  <user>
+    <a_code>A002  </a_code>
+    <a_name>Mukesh                                  </a_name>
+    <wrkg_area>Mumbai                             </wrkg_area>
+    <commission>0.11</commission>
+    <phnno.>029-12358964   </phnno.>
+    <country>&#xD;</country>
+  </user>
+  <user>
+    <a_code>A006  </a_code>
+    <a_name>McDen                                   </a_name>
+    <wrkg_area>London                             </wrkg_area>
+    <commission>0.15</commission>
+    <phnno.>078-22255588   </phnno.>
+    <country>&#xD;</country>
+  </user>
+  <user>
+    <a_code>A004  </a_code>
+    <a_name>Ivan                                    </a_name>
+    <wrkg_area>Torento                            </wrkg_area>
+    <commission>0.15</commission>
+    <phnno.>008-22544166   </phnno.>
+    <country>&#xD;</country>
+  </user>
+  <user>
+    <a_code>A009  </a_code>
+    <a_name>Benjamin                                </a_name>
+    <wrkg_area>Hampshair                          </wrkg_area>
+    <commission>0.11</commission>
+    <phnno.>008-22536178   </phnno.>
+    <country>&#xD;</country>
+  </user>
+</agents>
